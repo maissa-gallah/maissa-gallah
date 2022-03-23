@@ -4,7 +4,6 @@
 
 My name is Maissa Gallah and I am a Software Engineering Student whose passionate about learning new tools and technologies!
 
-**maissa-gallah/maissa-gallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about social Psychology and Astrology.
 - 📫 How to reach me: ![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/) 
-- 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent :Victor Hugo **
+- 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent Victor Hugo**
 
 
