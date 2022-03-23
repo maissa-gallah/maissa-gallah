@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about social Psychology and Astrology.
 - 📫 How to reach me: ![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/) 
-- 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent Victor Hugo**
+- 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent :Victor Hugo**
 
 
