@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/) 
 - 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent :Victor Hugo**
 
+---------------------------------------------------------------------------------------------------------------
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maissa-gallah&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---------------------------------------------------------------------------------------------------------------
+## Stats
+
+![maissa-gallah GitHub stats](https://github-readme-stats.vercel.app/api?username=maissa-gallah&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maissa-gallah&theme=radical)](https://git.io/streak-stats)
+
 
