@@ -16,6 +16,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent :Victor Hugo**
 
 ---------------------------------------------------------------------------------------------------------------
+
+### **Languages And Tools**
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://icon-icons.com/icons2/2107/PNG/64/file_type_nestjs_icon_130355.png" alt="NestJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+---------------------------------------------------------------------------------------------------------------
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maissa-gallah&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
