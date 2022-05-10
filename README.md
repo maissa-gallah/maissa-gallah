@@ -31,17 +31,15 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="vertical-align:top; margin:4px" />  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align:top; margin:4px" /> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
-</p>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-
 <img align="left" alt="springboot" width="26px" src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" />
 <img align="left" alt="java" width="35px" src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" />
 <img align="left" alt="symphony" width="25px" src="https://iconape.com/wp-content/files/ds/99775/svg/symfony.svg" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" />
 <img align="left" alt="Terminal" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  </p>
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
