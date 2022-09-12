@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://icon-icons.com/icons2/2107/PNG/64/file_type_nestjs_icon_130355.png" alt="NestJS" width="40" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="40" height="40" style="vertical-align:top; margin:4px">
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" style="vertical-align:top; margin:4px">
    
@@ -31,7 +31,6 @@ Here are some ideas to get you started:
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
   <img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
-      <img src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
   
   </p>
