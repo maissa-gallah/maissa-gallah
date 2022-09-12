@@ -26,15 +26,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="40" height="40" style="vertical-align:top; margin:4px">
-  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="vertical-align:top; margin:4px" /> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="vertical-align:top; margin:4px" />  
+   
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align:top; margin:4px" /> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
-     <img src="https://dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
   <img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
-    <img src="https://iconape.com/wp-content/files/ds/99775/svg/symfony.svg" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
       <img src="https://www.iconsdb.com/icons/preview/white/github-6-xxl.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="typescript" width="40" height="40" style="vertical-align:top; margin:4px"/> 
