@@ -2,7 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/) [![Gmail](https://img.shields.io/badge/maissa-gallah-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maissaglh@gmail.com) ![Count](https://visitor-badge.laobi.icu/badge?page_id=maissa-gallah.maissa-gallah) [![Github](https://img.shields.io/github/followers/maissa-gallah?label=Follow&style=social)](https://github.com/maissa-gallah) 
 
-My name is Maissa Gallah and I am a Software Engineering Student whose passionate about learning new tools and technologies!
+My name is Maissa Gallah and I am a Software Engineering Student specializing in data science.
+I'm passionate about researching and learning new tools and technologies!
 
 
 Here are some ideas to get you started:
