@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about social Psychology and Astrology.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/)
-- 😄 Pronouns: **I would not wish any companion in this world but you, I LOVE YOU :23:59**
+- 😄 Pronouns: **I would not wish any companion in this world but you :23:59**
 
 ---------------------------------------------------------------------------------------------------------------
 
