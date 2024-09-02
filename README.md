@@ -2,19 +2,19 @@
 
 [![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/) [![Gmail](https://img.shields.io/badge/maissa-gallah-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maissaglh@gmail.com) ![Count](https://visitor-badge.laobi.icu/badge?page_id=maissa-gallah.maissa-gallah) [![Github](https://img.shields.io/github/followers/maissa-gallah?label=Follow&style=social)](https://github.com/maissa-gallah) 
 
-My name is Maissa Gallah and I am a Software Engineering Student specializing in data science.
+My name is Maissa Gallah and I am a Software Engineering specializing in data science.
 I'm passionate about researching and learning new tools and technologies!
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Digital image processing & Deep learning project.
-- 🌱 I’m currently learning deep learning and TensorFlow .
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working as a data engineer & Text-to-SQL project using using Retrieval-Augmented Generation (RAG) methods.
+- 🌱 I’m currently learning data pipelines and azure services.
+- 👯 I’m looking to collaborate on NLP & Text-to-SQL project.
+- 🤔 I’m looking for help with scaling data pipelines and optimizing Azure-based solutions.
 - 💬 Ask me about social Psychology and Astrology.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/maissa-gallah-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maissa-gallah-b91a481ba/)
-- 😄 Pronouns: **Toutes ces choses sont passées comme l'ombre et comme le vent :Victor Hugo**
+- ✨ "Toutes ces choses sont passées comme l'ombre et comme le vent." — **Victor Hugo**
 
 ---------------------------------------------------------------------------------------------------------------
 
